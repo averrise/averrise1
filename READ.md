@@ -1,3 +1,3 @@
-# kokoa-clone 2020
+# js practice
 
-sdaddas
+just do it
